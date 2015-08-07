@@ -1,0 +1,11 @@
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\Tiles\se_free_grass_texture.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\Tiles\se_free_ground_texture.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\Tiles\se_free_mud_texture.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\Tiles\se_free_road_texture.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\TileEngine.exe
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\TileEngine.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.exe
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.pdb

@@ -1,0 +1,6 @@
+<Map>
+  <CollisionLayer>OneHouseTest.collayer</CollisionLayer>
+  <TileLayer>Base.layer</TileLayer>
+  <TileLayer>House.layer</TileLayer>
+  <TileLayer>Roof.layer</TileLayer>
+</Map>

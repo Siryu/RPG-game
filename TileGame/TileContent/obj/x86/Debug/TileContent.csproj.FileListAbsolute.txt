@@ -1,0 +1,10 @@
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileContent\bin\x86\Debug\TileContent.dll
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileContent\bin\x86\Debug\TileContent.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileContent\obj\x86\Debug\TileContent.dll
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileContent\obj\x86\Debug\TileContent.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileContent\bin\x86\Debug\TileContent.dll
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileContent\bin\x86\Debug\TileContent.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileContent\obj\x86\Debug\TileContent.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileContent\obj\x86\Debug\TileContent.dll
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileContent\obj\x86\Debug\TileContent.pdb

@@ -1,0 +1,27 @@
+<PlayerClasses>
+	<PlayerClass Name="Shadow Knight">
+		<Armor = "Medium, Light, Leather, Cloth" />
+		<Weapon = "1H Sword, 2H Sword, Dagger" />
+
+		<Attributes>
+			<Str>9</Str>
+			<Dex>3</Dex>
+			<Agi>4</Agi>
+			<Sta>4</Sta>
+		</Attributes>
+	
+		<Skills>
+			<Skill>Shadow Stab</Skill>
+			<Skill>Shadow Evasion</Skill>
+			<Skill>Envelop</Skill>
+			<Skill>Darkness</Skill>
+		</Skills>
+
+		<Magic>
+			<Spell>Blind</Spell>
+			<Spell>Float</Spell>
+			<Spell>Death</Spell>
+			<Spell>Zombie</Spell>
+		</Magic>
+	</PlayerClass>
+</PlayerClasses>

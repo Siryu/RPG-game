@@ -1,0 +1,100 @@
+<Armors>
+  <Armor Name="Wood Boots" Type="Feet">
+    <Equip Class="Tank   " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Def>1</Def>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DefenseType>Physical</DefenseType>
+    <Special>
+    </Special>
+  </Armor>
+  <Armor Name="Wood Gauntlets" Type="Hands">
+    <Equip Class="Tank   " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Def>1</Def>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DefenseType>Physical</DefenseType>
+    <Special>
+    </Special>
+  </Armor>
+  <Armor Name="Wood Helm" Type="Helm">
+    <Equip Class="Tank   " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Def>1</Def>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DefenseType>Physical</DefenseType>
+    <Special>
+    </Special>
+  </Armor>
+  <Armor Name="Test Armor" Type="Chest">
+    <Equip Class="Heavy  " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Def>1</Def>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DefenseType>Physical</DefenseType>
+    <Special>
+    </Special>
+  </Armor>
+  <Armor Name="Wood Greaves" Type="Legs">
+    <Equip Class="Tank   " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Def>2</Def>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DefenseType>Physical</DefenseType>
+    <Special>
+    </Special>
+  </Armor>
+  <Armor Name="Wood BreastPlate" Type="Chest">
+    <Equip Class="Tank   " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Def>3</Def>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DefenseType>Physical</DefenseType>
+    <Special>
+    </Special>
+  </Armor>
+  <Armor Name="Stein's thunder" Type="Legs">
+    <Equip Class="Heavy " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Def>100</Def>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DefenseType>Physical</DefenseType>
+    <Special>
+    </Special>
+  </Armor>
+</Armors>

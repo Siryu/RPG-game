@@ -1,0 +1,98 @@
+<Weapons>
+  <Weapon Name="Wood Sword" Type="1H Sword">
+    <Equip Class="Attack Tank       " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Attack>3</Attack>
+    <Acc>75</Acc>
+    <Parry>80</Parry>
+    <AttribBonus>
+      <Str>1</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DamageType>Physical</DamageType>
+    <Special>
+    </Special>
+  </Weapon>
+  <Weapon Name="Typical Sword" Type="1H Sword">
+    <Equip Class="Attack                  " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Attack>4</Attack>
+    <Acc>80</Acc>
+    <Parry>80</Parry>
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DamageType>Physical</DamageType>
+    <Special>
+    </Special>
+  </Weapon>
+  <Weapon Name="mya's sword" Type="2H Sword">
+    <Equip Class="attack    " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Attack>5</Attack>
+    <Acc>70</Acc>
+    <Parry>70</Parry>
+    <AttribBonus>
+      <Str>50</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DamageType>Physical</DamageType>
+    <Special>
+    </Special>
+  </Weapon>
+  <Weapon Name="Omega Sword" Type="">
+    <Equip Class="                            " />
+    <Image Texture="" />
+    <Attack>10</Attack>
+    <Acc>2</Acc>
+    <Parry>2</Parry>
+    <AttribBonus>
+      <Str>2</Str>
+      <Dex>2</Dex>
+      <Agi>2</Agi>
+      <Sta>2</Sta>
+    </AttribBonus>
+    <DamageType>
+    </DamageType>
+    <Special>
+    </Special>
+  </Weapon>
+  <Weapon Name="Emerson Sword" Type="2H Sword">
+    <Equip Class="Warrior " />
+    <Image Texture="Tiles\BlendedCobbleV.png" />
+    <Attack>12</Attack>
+    <Acc>12</Acc>
+    <Parry>12</Parry>
+    <AttribBonus>
+      <Str>1</Str>
+      <Dex>1</Dex>
+      <Agi>1</Agi>
+      <Sta>1</Sta>
+    </AttribBonus>
+    <DamageType>Physical</DamageType>
+    <Special>Vs. Undead</Special>
+  </Weapon>
+  <Weapon Name="Jake's Sword" Type="1H Sword">
+    <Equip Class="DD  " />
+    <Image Texture="Weapons\th_mmsword1ty.png" />
+    <Attack>15</Attack>
+    <Acc>25</Acc>
+    <Parry>10</Parry>
+    <AttribBonus>
+      <Str>4</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+    <DamageType>Physical</DamageType>
+    <Special>
+    </Special>
+  </Weapon>
+</Weapons>

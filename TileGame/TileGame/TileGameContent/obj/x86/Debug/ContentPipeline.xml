@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2012-07-15T23:01:06.6837679-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\amg1.png</Source>
+      <Name>Sprites\amg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg1.xnb</Output>
+      <Time>2012-07-08T21:08:48.5087232-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\amg2.png</Source>
+      <Name>Sprites\amg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg2.xnb</Output>
+      <Time>2012-07-08T21:08:48.5377248-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\amg3.png</Source>
+      <Name>Sprites\amg3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg3.xnb</Output>
+      <Time>2012-07-08T21:08:48.5387249-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\amg4.png</Source>
+      <Name>Sprites\amg4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg4.xnb</Output>
+      <Time>2012-07-08T21:08:48.539725-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\avt1.png</Source>
+      <Name>Sprites\avt1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt1.xnb</Output>
+      <Time>2012-07-08T21:08:48.540725-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\avt2.png</Source>
+      <Name>Sprites\avt2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt2.xnb</Output>
+      <Time>2012-07-08T21:08:48.5417251-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\avt3.png</Source>
+      <Name>Sprites\avt3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt3.xnb</Output>
+      <Time>2012-07-08T21:08:48.5417251-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\avt4.png</Source>
+      <Name>Sprites\avt4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt4.xnb</Output>
+      <Time>2012-07-08T21:08:48.5427251-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\npc3.png</Source>
+      <Name>Sprites\npc3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\npc3.xnb</Output>
+      <Time>2012-07-08T21:08:48.5437252-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\npc6.png</Source>
+      <Name>Sprites\npc6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\npc6.xnb</Output>
+      <Time>2012-07-08T21:08:48.5447252-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\NpcSprite_f1.jpg</Source>
+      <Name>Sprites\NpcSprite_f1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\NpcSprite_f1.xnb</Output>
+      <Time>2012-07-22T20:51:23.6970389-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\NpcSprite_r1.png</Source>
+      <Name>Sprites\NpcSprite_r1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\NpcSprite_r1.xnb</Output>
+      <Time>2012-07-22T22:18:27.6356372-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bones.png</Source>
+      <Name>Sprites\Bones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\Bones.xnb</Output>
+      <Time>2012-07-28T18:27:17.04639-06:00</Time>
+    </Item>
+    <Item>
+      <Source>door.png</Source>
+      <Name>door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\door.xnb</Output>
+      <Time>2012-08-05T20:31:14.2953349-06:00</Time>
+    </Item>
+    <Item>
+      <Source>treasurechest.png</Source>
+      <Name>treasurechest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\treasurechest.xnb</Output>
+      <Time>2012-08-05T20:31:14.2953349-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Scripts\NPC1.script</Source>
+      <Name>Scripts\NPC1</Name>
+      <Importer>ScriptImporter</Importer>
+      <Processor>ScriptProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Scripts\NPC1.xnb</Output>
+      <Time>2012-07-16T00:50:53.989323-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\OneHouseTest.map</Source>
+      <Name>Maps\OneHouseTest</Name>
+      <Importer>TileMapImporter</Importer>
+      <Processor>TileMapProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Maps\OneHouseTest.xnb</Output>
+      <Time>2012-08-29T02:13:48.9762792-06:00</Time>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\OneHouseTest_0.xnb</Request>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Base_0.xnb</Request>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\House_0.xnb</Request>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Roof_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>OneHouseTest.collayer</Source>
+      <Importer>CollisionLayerImporter</Importer>
+      <Processor>CollisionLayerProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\OneHouseTest_0.xnb</Output>
+      <Time>2012-08-31T04:04:48.5083708-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Base.layer</Source>
+      <Importer>TileLayerImporter</Importer>
+      <Processor>TileLayerProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Base_0.xnb</Output>
+      <Time>2012-08-29T02:13:48.9402771-06:00</Time>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_grass_texture.jpg.xnb</Request>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.jpg.xnb</Request>
+    </Item>
+    <Item>
+      <Source>House.layer</Source>
+      <Importer>TileLayerImporter</Importer>
+      <Processor>TileLayerProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\House_0.xnb</Output>
+      <Time>2012-08-29T02:13:48.9522778-06:00</Time>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_road_texture.jpg.xnb</Request>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_mud_texture.jpg.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Roof.layer</Source>
+      <Importer>TileLayerImporter</Importer>
+      <Processor>TileLayerProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Roof_0.xnb</Output>
+      <Time>2012-08-29T02:13:48.9642785-06:00</Time>
+      <Request>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_road_texture.jpg.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_grass_texture.jpg</Source>
+      <Name>Tiles\se_free_grass_texture.jpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_grass_texture.jpg.xnb</Output>
+      <Time>2012-06-27T03:42:55.5612513-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_dirt_texture.jpg</Source>
+      <Name>Tiles\se_free_dirt_texture.jpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.jpg.xnb</Output>
+      <Time>2012-06-27T03:42:55.5602512-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_road_texture.jpg</Source>
+      <Name>Tiles\se_free_road_texture.jpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_road_texture.jpg.xnb</Output>
+      <Time>2012-06-27T03:42:55.5642514-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_mud_texture.jpg</Source>
+      <Name>Tiles\se_free_mud_texture.jpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_mud_texture.jpg.xnb</Output>
+      <Time>2012-06-27T03:42:55.5632514-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Corey Massey\Desktop\Game\TileGame\TileEngine\bin\x86\Debug\TileEngine.dll</Key>
+        <Value>2013-10-14T09:37:38.4762688-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Corey Massey\Desktop\Game\TileGame\TileContent\bin\x86\Debug\TileContent.dll</Key>
+        <Value>2013-10-13T21:51:40.1238536-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-13T21:28:27.6671729-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

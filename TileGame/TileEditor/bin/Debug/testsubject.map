@@ -1,0 +1,4 @@
+<Map>
+  <CollisionLayer>testsubject.collayer</CollisionLayer>
+  <TileLayer>25.layer</TileLayer>
+</Map>

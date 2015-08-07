@@ -1,0 +1,33 @@
+﻿<Armors>
+  <Armor Name="Wood BreastPlate" Type="Chest">
+    <Equip Class ="Attack, Defend" />
+    <Def>3</Def>
+
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+
+    <Special>
+
+    </Special>
+  </Armor>
+
+  <Armor Name="Wood Helm" Type ="Helm">
+    <Equip Class ="Attack, Defend" />
+    <Def>1</Def>
+
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+
+    <Special>
+
+    </Special>    
+  </Armor>
+</Armors>

@@ -1,0 +1,41 @@
+﻿<Weapons>
+  
+  <Weapon Name="Wood Sword" Type="1H Sword">
+    <Equip Class ="Attack, Thief" />
+    <Image Texture ="Content/Weapons/th_mmsword1ty.png" />
+    <Attack>3</Attack>
+    <Acc>70</Acc>
+    <Parry>1</Parry>
+
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>0</Agi>
+      <Sta>0</Sta>
+    </AttribBonus>
+
+    <Special>
+      
+    </Special>    
+  </Weapon>
+
+  <Weapon Name="Stick" Type="Dagger">
+    <Equip Class ="Attack, Thief, Mage" />
+    <Image Texture ="Content/Weapons/th_mmsword1ty.png" />
+    <Attack>1</Attack>
+    <Acc>65</Acc>
+    <Parry>0</Parry>
+
+    <AttribBonus>
+      <Str>0</Str>
+      <Dex>0</Dex>
+      <Agi>1</Agi>
+      <Sta>0</Sta>      
+    </AttribBonus>
+
+    <Special>
+      
+    </Special>
+  </Weapon>
+          
+</Weapons>

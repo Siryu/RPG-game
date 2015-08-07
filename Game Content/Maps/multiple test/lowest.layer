@@ -1,0 +1,22 @@
+<TileLayer>
+  <Textures>
+    <Texture File="Tiles\se_free_ground_texture.jpg" ID="0" />
+  </Textures>
+  <Properties>
+    <Alpha>1</Alpha>
+  </Properties>
+  <Layout Width="10" Height="10">
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+	 0 0 0 0 0 0 0 0 0 0 
+</Layout>
+  <TreasureChests />
+  <Doors />
+</TileLayer>

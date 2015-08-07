@@ -1,0 +1,12 @@
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEngine\bin\x86\Debug\TileEngine.dll
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEngine\bin\x86\Debug\TileEngine.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEngine\obj\x86\Debug\TileEngine.dll
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEngine\obj\x86\Debug\TileEngine.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEngine\bin\x86\Debug\TileEngine.dll
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEngine\bin\x86\Debug\TileEngine.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEngine\obj\x86\Debug\TileEngine.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEngine\obj\x86\Debug\TileEngine.dll
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEngine\obj\x86\Debug\TileEngine.pdb

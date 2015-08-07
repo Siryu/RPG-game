@@ -1,0 +1,17 @@
+﻿<Consumables>
+  <Consumable Name="Potion">
+    <HP Value="50" />
+    <MP Value="0" />
+    <RegenHP Value ="0" />
+    <RegenMP Value ="0" />
+    <Resurrect Value ="0" />    
+  </Consumable>
+
+  <Consumable Name="Ether">
+    <HP Value="0" />
+    <MP Value="50" />
+    <RegenHP Value ="0" />
+    <RegenMP Value ="0" />
+    <Resurrect Value ="0" />
+  </Consumable>
+</Consumables>

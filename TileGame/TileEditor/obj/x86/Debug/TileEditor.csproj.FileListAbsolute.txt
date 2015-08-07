@@ -1,0 +1,55 @@
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.Form1.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.Properties.Resources.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\TileEditor.exe
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\TileEditor.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\TileEngine.dll
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\TileEngine.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.exe
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\content\tile.png
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.newLayerForm.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\TileEditor.exe.manifest
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\TileEditor.application
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.exe.manifest
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.application
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\content\CollisionBlank.png
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\content\treasurechest.png
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\bin\Debug\content\door.png
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.newWeaponForm.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.newArmorForm.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.newConsumableForm.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.newTreasureChestForm.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.newClassForm.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.newLayerForm2.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.sizeForm.resources
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileEditor\obj\x86\Debug\TileEditor.SwitchMapForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.exe
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\content\CollisionBlank.png
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\content\door.png
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\content\tile.png
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\content\treasurechest.png
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\TileEditor.exe.manifest
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\TileEditor.application
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\TileEditor.exe
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\TileEditor.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\TileEngine.dll
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\bin\Debug\TileEngine.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.newLayerForm2.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.newClassForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.newConsumableForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.Form1.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.newArmorForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.newLayerForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.newWeaponForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.newTreasureChestForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.Properties.Resources.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.sizeForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.SwitchMapForm.resources
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.csproj.GenerateResource.Cache
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.exe.manifest
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileEditor\obj\x86\Debug\TileEditor.application

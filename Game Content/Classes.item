@@ -1,0 +1,30 @@
+<PlayerClasses>
+  <PlayerClass Name="Shadow Knight">
+    <Armor type="Medium,Light,Leather,Cloth," />
+    <Weapon type="1H Sword,2H Sword,Dagger,1H Axe," />
+    <Attributes>
+      <Str>9</Str>
+      <Dex>4</Dex>
+      <Agi>4</Agi>
+      <Sta>4</Sta>
+    </Attributes>
+    <Skills>
+      <Skill>Shadow Stab</Skill>
+    </Skills>
+    <Magic>
+      <Spell>Blind</Spell>
+    </Magic>
+  </PlayerClass>
+  <PlayerClass Name="Paladin">
+    <Armor type="Heavy,Medium,Light,Leather,Cloth," />
+    <Weapon type="1H Sword,Dagger," />
+    <Attributes>
+      <Str>7</Str>
+      <Dex>4</Dex>
+      <Agi>4</Agi>
+      <Sta>7</Sta>
+    </Attributes>
+    <Skills />
+    <Magic />
+  </PlayerClass>
+</PlayerClasses>

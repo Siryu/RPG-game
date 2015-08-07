@@ -1,0 +1,20 @@
+<Consumables>
+  <Consumable Name="Grass Potion">
+    <Image Texture="Tiles\se_free_grass_texture.jpg" />
+    <HP Value="10" />
+    <MP Value="10" />
+    <RegenHP Value="2" />
+    <RegenMP Value="2" />
+    <Resurrect Value="No" />
+    <Life Value="0" />
+  </Consumable>
+  <Consumable Name="Dirt Potion">
+    <Image Texture="Tiles\se_free_dirt_texture.jpg" />
+    <HP Value="50" />
+    <MP Value="0" />
+    <RegenHP Value="0" />
+    <RegenMP Value="0" />
+    <Resurrect Value="Yes" />
+    <Life Value="1" />
+  </Consumable>
+</Consumables>

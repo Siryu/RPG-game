@@ -1,0 +1,4 @@
+<Map>
+  <CollisionLayer>multiple test.collayer</CollisionLayer>
+  <TileLayer>lowest.layer</TileLayer>
+</Map>

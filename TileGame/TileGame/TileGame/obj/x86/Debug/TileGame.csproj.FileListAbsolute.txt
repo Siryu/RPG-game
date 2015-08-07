@@ -1,0 +1,72 @@
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\TileGame.exe
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\TileGame.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\TileEngine.dll
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\TileEngine.pdb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg1.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg2.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg3.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg4.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt1.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt2.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt3.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt4.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\npc3.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\npc6.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Scripts\NPC1.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_grass_texture.jpg.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\Bones.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\NpcSprite_f1.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\NpcSprite_r1.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\door.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\treasurechest.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\door.png
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\treasurechest.png
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Base_0.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Roof_0.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_road_texture.jpg.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_mud_texture.jpg.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Maps\OneHouseTest.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\OneHouseTest_0.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.jpg.xnb
+C:\Users\Siryu\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\House_0.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg1.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg2.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg3.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\amg4.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt1.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt2.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt3.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\avt4.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\npc3.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\npc6.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\NpcSprite_f1.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\NpcSprite_r1.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Sprites\Bones.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\door.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\treasurechest.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Scripts\NPC1.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Maps\OneHouseTest.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\OneHouseTest_0.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Base_0.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\House_0.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Roof_0.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_grass_texture.jpg.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.jpg.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_road_texture.jpg.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Tiles\se_free_mud_texture.jpg.xnb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\door.png
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\Content\treasurechest.png
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\TileGame.exe
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\TileGame.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\TileEngine.dll
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\bin\x86\Debug\TileEngine.pdb
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\Corey Massey\Desktop\Game\TileGame\TileGame\TileGame\obj\x86\Debug\TileGame.pdb

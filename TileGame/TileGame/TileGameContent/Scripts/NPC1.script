@@ -1,0 +1,48 @@
+﻿<Conversations>
+
+  <Conversation Name="Greetings">
+  <Text>Hello friend.</Text>
+
+    <Handlers>
+      <Handler Caption="Continue" Action="StartConversation:AskFollow" />
+    </Handlers>
+    
+</Conversation>
+
+  <Conversation Name="AskFollow">
+    <Text>Do you want me to follow you anymore?</Text>
+    <Handlers>
+      <Handler Caption="Yes" Action="StartFollowing; EndConversation" />
+      <Handler Caption="No" Action="StopFollowing; EndConversation" />
+    </Handlers>
+  </Conversation>
+
+<Conversation Name="Quest1">
+
+  <Text>There are some people up to no good over by the park.  Can you take care of it for me?</Text>
+
+  <Handlers>
+
+    <Handler Caption="Yes" Action="StartConversation:ThankYou" />
+    <Handler Caption="No" Action="StartConversation:OhWell" />
+    
+  </Handlers>
+  
+</Conversation>
+
+  <Conversation Name="ThankYou">
+    <Text>Thanks!</Text>
+    <Handlers>
+      <Handler Caption="Continue" Action="EndConversation" />
+      
+    </Handlers>
+   </Conversation>
+
+  <Conversation Name="OhWell">
+    <Text>Oh well.</Text>
+    <Handlers>
+      <Handler Caption="Continue" Action="EndConversation" />
+    </Handlers>
+  </Conversation>
+
+</Conversations>
